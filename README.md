@@ -1,5 +1,7 @@
 # Game Stage Microservice
-Game Stage Microservice is a microservices-based application built with Node.js, gRPC, GraphQL, and REST, using SQLite as the database. It consists of three entities: User, Game, and Stage. This README file provides an overview of the project and other relevant information.
+Game Stage Microservice is a microservices-based application built with Node.js, gRPC, GraphQL, and REST, 
+using SQLite as the database. It consists of three entities: User, Game, and Stage. 
+This README file provides an overview of the project and other relevant information.
 
 ## Table of Contents
 Features
