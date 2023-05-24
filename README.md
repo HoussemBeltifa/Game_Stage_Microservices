@@ -20,7 +20,7 @@ Communication between services using gRPC and RESTful APIs
 GraphQL endpoint for flexible querying and data manipulation
 
 ## Technologies
-Node.js
+Node.js\n
 gRPC
 GraphQL
 RESTful APIs
