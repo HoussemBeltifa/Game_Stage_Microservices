@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+package stage;
+
+
+message Stage {
+  string id = 1;
+  string title = 2;
+  string description = 3;
+
+}
+
+message GetStageRequest {
+  string stage_id = 1;
+}
+
+message GetStageResponse {
+  Stage notif = 1;
+}
+
+
+
+
+
+service StageService {
+  rpc GetStage(GetStageRequest) returns (GetStageResponse);
+
+}
